@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on **open source project**
 
-- 🤝 I’m looking for help with **open soure project**
-
 - 👨‍💻 All of my projects are available at [later](later)
  
 - 📫 How to reach me **scorpiofento@gmail.com**
