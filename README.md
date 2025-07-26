@@ -14,14 +14,9 @@
 - 🤝 I’m looking for help with **open soure project**
 
 - 👨‍💻 All of my projects are available at [later](later)
-
-- 📝 I regularly write articles on [later](later)
-
-- 💬 Ask me about **full stack development**
-
+- 
 - 📫 How to reach me **scorpiofento@gmail.com**
-
-- 📄 Know about my experiences [later](later)
+- 
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
