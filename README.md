@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpiofento&label=Profile%20views&color=0e75b6&style=flat" alt="scorpiofento" /> </p>
 
-- 🔭 I’m currently working on [scents-notes](https://github.com/ScorpioFento/scents_notes)
+- 🔭 I’m currently working on [open-source-learning-sessions](https://github.com/ScorpioFento/open-source-learning-sessions)
 
 - 🌱 I’m currently learning **full stack development**
 
