@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fento</h1>
 <h3 align="center">Frontend Developer & IT Entrepreneur from Myanmar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scorpiofento&label=Profile%20views&color=0e75b6&style=flat" alt="scorpiofento" /> </p>
-
 - 🔭 I’m currently working on [Omega Toolkit](https://github.com/Omega-Dimension/omega-toolkit)
 
 - 🌱 I’m currently learning **full stack development**
