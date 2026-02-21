@@ -10,9 +10,13 @@
 
 <!-- About Me -->
 - 🔭 Currently working on [Omega Toolkit](https://github.com/Omega-Dimension/omega-toolkit)
+
 - 🌱 Learning **Full Stack Development**
+  
 - 👯 Open to **collaborations** on open source projects
+  
 - 📫 Reach me: **scorpiofento@gmail.com**
+  
 - 💻 Portfolio: [later](later)
 
 <!-- Connect -->
