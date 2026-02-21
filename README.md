@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+IT+Entrepreneur;From+Myanmar" alt="Typing SVG" />
 </h3>
 
-<hr />
 
 <!-- About Me -->
 - 🔭 Currently working on [Omega Toolkit](https://github.com/Omega-Dimension/omega-toolkit)
