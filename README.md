@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,sass" />
 
 #### Backend & Tools
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,docker" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgresql,redis,docker" />
 
 </div>
 
