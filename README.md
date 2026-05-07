@@ -34,13 +34,12 @@
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=scorpiofento&show_icons=true&hide_border=true&theme=default&rank_icon=github" height="160"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scorpiofento&layout=compact&hide_border=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=scorpiofento&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scorpiofento&layout=compact&hide_border=true&langs_count=8" height="160"/>
 </div>
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=scorpiofento&hide_border=true&theme=default" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=scorpiofento&hide_border=true&date_format=j%20M%5B%20Y%5D" height="160"/>
 </div>
 
 ---
