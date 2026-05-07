@@ -30,12 +30,14 @@
 </div>
 
 ---
-
 ### Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=scorpiofento&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=scorpiofento&show_icons=true&hide_border=true&theme=github_dark&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=scorpiofento&layout=compact&hide_border=true&theme=github_dark" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=scorpiofento&hide_border=true&theme=github-dark" height="165"/>
 
 </div>
 
